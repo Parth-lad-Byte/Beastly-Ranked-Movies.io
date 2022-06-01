@@ -1,37 +1,9 @@
 
 
-
-
-
-
-
-
-
-
 html{
     scroll-behavior: smooth;
 	
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -54,35 +26,13 @@ html{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body {
-	background-image: url(../images/backwall.jpg);
+	background-image: url(imagies/moviebanner.jpg);
+	background-color: black;
 	background-repeat: repeat;
 	font-family: verdana, arial, sans-serif;
 	font-size: 14px;
 	color: black;
-	margin-top: 285px;
 	background-size:cover;
 	
 }
@@ -207,7 +157,7 @@ hr {
 }
 
 .topfixed {
-	position: fixed;
+	position: relative;
 	top: 0;
 	left: 0;
 	right: 0;
